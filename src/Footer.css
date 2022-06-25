@@ -1,0 +1,26 @@
+.footer {
+    padding: 10px 10px 1px 10px;
+    text-align: center;
+}
+
+p {
+    color: whitesmoke;
+    font-size: 26px;
+}
+
+span {
+    font-size: 20px;
+    font-family: cursive;
+}
+@media screen and (max-width:500px) {
+    p {
+       
+        font-size: 22px;
+    }
+    
+    span {
+        font-size: 17px;
+        font-family: cursive;
+    } 
+    
+}
